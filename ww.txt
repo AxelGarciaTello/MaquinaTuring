@@ -1,0 +1,13 @@
+Estados de aceptacion:
+q7;
+Tabla de estados:
+Estados, Estado de 0, Cambio de 0, Movimiento de 0, Estado de 1, Cambio de 1, Movimineto de 1, Estado de B, Cambio de B, Movimiento de B, Estado de x, Cambio de x, Movimiento de x, Estado de y, Cambio de y, Movimiento de y
+->0|1|x|d|4|x|d| | | |7|x|d| | | ;
+1|1|0|d|1|1|d|2|b|i|2|x|i| | | ;
+2|3|x|i| | | | | | | | | | | | ;
+3|3|0|i|3|1|i| | | |0|x|d| | | ;
+4|4|0|d|4|1|d|5|b|i|5|x|i| | | ;
+5| | | |6|x|i| | | | | | | | | ;
+6|6|0|i|6|1|i| | | |0|x|d| | | ;
+7| | | | | | |7|b|d|7|x|d| | | ;
+
