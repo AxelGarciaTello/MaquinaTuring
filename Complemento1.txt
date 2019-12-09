@@ -1,0 +1,6 @@
+Estados de aceptacion:
+q1;
+Tabla de estados:
+Estados, Estado de 0, Cambio de 0, Movimiento de 0, Estado de 1, Cambio de 1, Movimineto de 1, Estado de B, Cambio de B, Movimiento de B, Estado de x, Cambio de x, Movimiento de x, Estado de y, Cambio de y, Movimiento de y
+->0|0|1|d|0|0|d|1|b|d| | | | | | ;
+1| | | | | | |1|b|d| | | | | | ;
